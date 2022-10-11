@@ -3,7 +3,7 @@
 ## Main task
 Create a React app:
 
-- A main page with a list of games from either TMDB or RAWG;
+- A main page with a list of games from RAWG;
 - A simple search of games based on input;
 
 #### Bonus
