@@ -6,7 +6,7 @@ Create a React app:
 - A main page with a list of games from either TMDB or RAWG;
 - A simple search of games based on input;
 
-### Bonus
+#### Bonus
 - A page per game with detailed information like [this](https://www.igdb.com/games/stray);
 
 ## Stack
@@ -14,6 +14,8 @@ Create a React app:
 - [React](https://reactjs.org/)
 - [Bootstrap](https://react-bootstrap.github.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+#### Bonus
+- [Next.js](https://nextjs.org/) 
 
 ## APIs
 APIs that may be used:
