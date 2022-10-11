@@ -17,7 +17,6 @@ Create a React app:
 
 ## APIs
 APIs that may be used:
-- [TMDB](https://www.themoviedb.org/)
 - [RAWG Video Games Database API](https://rawg.io/apidocs)
 
 ## Design
